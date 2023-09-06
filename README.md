@@ -21,3 +21,12 @@ The Softwares used to make this project are:-
 
 7.Icons and Background Images....
 
+8.jdk-17_windows-x64_bin exe. file....
+
+If anyone who wants to create this kind of project using JAVA , then you need to use all these softwares , exe and jpg files...
+
+Moola Pravlesh, JAVA Developers email: pravaleshkumar2@gmail.com
+
+If you find my work helpful,follow me on my Linkedin profile throught the given link provided:- https://www.linkedin.com/in/moola-pravalesh-a47493260
+
+Feel free to contact me regarding any issue.
